@@ -1,4 +1,8 @@
-window.location.href = "r";
+const button = document.querySelector("formualario");
+
+button.onclick = function() {
+  window.location.href = "formualario.html";
+};
 const nombre = document.getElementById("name")
 const email = document.getElementById("email")
 const pass = document.getElementById("password")
@@ -30,3 +34,4 @@ form.addEventListener("submit", e=>{
         parrafo.innerHTML = "Enviado"
     }
 })
+

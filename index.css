@@ -291,7 +291,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("images/barista.avif");
+        ,url("images/cafeteras.webp");
 
     }
 
@@ -301,7 +301,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("images/manipulacion\ dealimentos.jpg");
+        ,url("images/virginia.webp");
     }
 
     .carta:nth-child(3){
@@ -310,7 +310,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("images/pasteleria.jpg");
+        ,url("images/tazas.jpg");
 
     }
 
